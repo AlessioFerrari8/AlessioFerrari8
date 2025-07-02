@@ -1,5 +1,11 @@
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=ITTLuffy&theme=github-dark&area=true&hide_border=true)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ITTLuffy&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITTLuffy&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  
+  <img src="https://streak-stats.demolab.com/?user=ITTLuffy&theme=dark&hide_border=true" alt="Streak" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITTLuffy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ITTLuffy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-![Streak](https://streak-stats.demolab.com/?user=ITTLuffy&theme=github-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITTLuffy&layout=compact&langs_count=3&theme=github_dark)
+</div>
