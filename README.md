@@ -1,5 +1,8 @@
 
 <div align="center">
+  
+<h2>📊 GitHub Stats & Activity</h2>
+<hr/>
 
 <!-- Prima riga: Statistiche e Linguaggi affiancati -->
 <table>
