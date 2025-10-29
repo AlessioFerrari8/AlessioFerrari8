@@ -8,10 +8,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ITTLuffy&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AlessioFerrari8&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITTLuffy&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioFerrari8&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -20,10 +20,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats-phi.vercel.app/?user=ITTLuffy&theme=dark&hide_border=true" alt="Streak" />
+      <img src="https://streak-stats-phi.vercel.app/?user=AlessioFerrari8&theme=dark&hide_border=true" alt="Streak" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ITTLuffy&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlessioFerrari8&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
     </td>
   </tr>
 </table>
